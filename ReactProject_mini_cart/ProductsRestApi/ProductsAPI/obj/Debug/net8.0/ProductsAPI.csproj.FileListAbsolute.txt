@@ -1,0 +1,441 @@
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.staticwebassets.endpoints.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.exe
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.deps.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.runtimeconfig.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.pdb
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.AssemblyReference.cache
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfoInputs.cache
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfo.cs
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.CoreCompileInputs.cache
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\scopedcss\bundle\ProductsAPI.styles.css
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsAPI.props
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsAPI.props
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsAPI.props
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\Products.2F20E4EC.Up2Date
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
+D:\Dot Net\Practical Project\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.staticwebassets.endpoints.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.exe
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.deps.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.runtimeconfig.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.pdb
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Humanizer.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.AssemblyReference.cache
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfoInputs.cache
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfo.cs
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.CoreCompileInputs.cache
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\scopedcss\bundle\ProductsAPI.styles.css
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsAPI.props
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsAPI.props
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsAPI.props
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\Products.2F20E4EC.Up2Date
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
+C:\CDAC\WPT KETKI MAM\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\appsettings.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.staticwebassets.endpoints.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.exe
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.deps.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.runtimeconfig.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ProductsAPI.pdb
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.AssemblyReference.cache
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfoInputs.cache
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.AssemblyInfo.cs
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.csproj.CoreCompileInputs.cache
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\scopedcss\bundle\ProductsAPI.styles.css
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductsAPI.props
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductsAPI.props
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductsAPI.props
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\Products.2F20E4EC.Up2Date
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\refint\ProductsAPI.dll
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.pdb
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ProductsAPI.genruntimeconfig.cache
+E:\Dell Laptop Data 06-07-24\C Data\Desktop\vedant\cdac\WPT\ReactProject\ProductsAPI\ProductsAPI\obj\Debug\net8.0\ref\ProductsAPI.dll

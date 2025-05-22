@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5197CF5-CF01-4332-A1AD-9866A565FDC0}|ProductsAPI\\ProductsAPI.csproj|e:\\dell laptop data 06-07-24\\c data\\desktop\\vedant\\cdac\\wpt\\reactproject\\productsapi\\productsapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5197CF5-CF01-4332-A1AD-9866A565FDC0}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5197CF5-CF01-4332-A1AD-9866A565FDC0}|ProductsAPI\\ProductsAPI.csproj|e:\\dell laptop data 06-07-24\\c data\\desktop\\vedant\\cdac\\wpt\\reactproject\\productsapi\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5197CF5-CF01-4332-A1AD-9866A565FDC0}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5197CF5-CF01-4332-A1AD-9866A565FDC0}|ProductsAPI\\ProductsAPI.csproj|e:\\dell laptop data 06-07-24\\c data\\desktop\\vedant\\cdac\\wpt\\reactproject\\productsapi\\productsapi\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5197CF5-CF01-4332-A1AD-9866A565FDC0}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\ProductsAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\ProductsAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:39:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAADIAAAAAMTMzMzPzv0oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:25:03.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppdbContext.cs",
+              "DocumentMoniker": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\ProductsAPI\\Repository\\AppdbContext.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Repository\\AppdbContext.cs",
+              "ToolTip": "E:\\Dell Laptop Data 06-07-24\\C Data\\Desktop\\vedant\\cdac\\WPT\\ReactProject\\ProductsAPI\\ProductsAPI\\Repository\\AppdbContext.cs",
+              "RelativeToolTip": "ProductsAPI\\Repository\\AppdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:13:07.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
